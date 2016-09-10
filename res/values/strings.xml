@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Zapposdemo</string>
+    <string name="action_settings">Settings</string>
+    <string name="search_term">""</string>
+    <string name="search_api1">https://api.zappos.com/Search?term=%1$s&amp;key=b743e26728e16b81da139182bb2094357c31d331   </string>
+    <string name="search_api2">https://api.6pm.com/Search?term=%1$s&amp;key=524f01b7e2906210f7bb61dcbe1bfea26eb722eb  </string>
+
+</resources>
